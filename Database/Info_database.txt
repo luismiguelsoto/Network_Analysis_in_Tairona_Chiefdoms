@@ -1,1 +1,6 @@
-
+#
+Greetings:
+#
+Here you will find the files in ".xlsx" format, which contain the datasets used for the network analysis by occupation period.
+#
+These files were initially written in an Excel® database in its 2010 version.
