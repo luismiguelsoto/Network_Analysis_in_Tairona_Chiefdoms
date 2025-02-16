@@ -1,7 +1,6 @@
 Network Analysis in Tairona Chiefdoms of the Río Frío Basin
 --------------------------------------------------------------
 
-About This Repository:
 This repository contains the R code and data used to analyze the interaction networks in the Tairona chiefdom communities of the Río Frío Basin (Sierra Nevada de Santa Marta, Colombia). The goal of the study is to investigate settlement patterns and scales of sociopolitical interaction and economic integration over time, using network analysis applied to ceramic artifact assemblages.
 
 Repository Structure:
