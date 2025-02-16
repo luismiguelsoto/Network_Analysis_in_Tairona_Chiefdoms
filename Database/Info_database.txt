@@ -4,3 +4,6 @@ Greetings:
 Here you will find the files in ".xlsx" format, which contain the datasets used for the network analysis by occupation period.
 #
 These files were initially written in an Excel® database in its 2010 version.
+#
+The file names are in Spanish, so that, for example, the files with the letters “Tipos” are translated into English as ceramic types, 
+while “Desgrasantes” are translated into English as mineral tempers
