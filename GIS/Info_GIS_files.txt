@@ -1,1 +1,19 @@
-
+#
+Greetings:
+#
+Here you will find the GIS files that correspond to the 40 square kilometer polygon covered up to the date the article “Network Analysis in Tairona Chiefdoms of the Río Frío Basin, Sierra Nevada de Santa Marta, Colombia” was written and which is associated with the preliminary results of the Río Frío Regional Archaeology Program, Sierra Nevada de Santa Marta, Colombia.
+#
+The following lines correspond to the cartographic information of the file "POLYGON_SURVEY_UNTILL_2023.shp":
+#
+Name:
+EPSG:32618 - WGS 84 / UTM zone 18N
+Units:
+meters
+Method:
+Universal Transverse Mercator (UTM)
+Celestial body:
+Earth
+Accuracy:
+Based on the whole of the 1984 World Geodetic System (EPSG:6326), which has a limited accuracy of 2 meters in the best of cases.
+Reference:
+Dynamic (based on a datum that is not fixed to a plate)
