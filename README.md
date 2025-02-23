@@ -5,7 +5,7 @@ This repository contains the R code and data used to analyze the interaction net
 
 Repository Structure:
 ----------------------------------
-1. Database/
+1. Database:
    - Contains the Excel files with the datasets used in the analysis:
      • Buritaca_Desgrasantes.xlsx
      • Buritaca_Desgrasantes_attr.xlsx
@@ -20,7 +20,7 @@ Repository Structure:
      • Tairona_Tipos.xlsx
      • Tairona_Tipos_attr.xlsx
 
-2. GIS/
+2. GIS:
    - Contains the spatial data files (shapefile components) defining the study area:
      • POLYGON_SURVEY_UNTILL_2023.shp
      • POLYGON_SURVEY_UNTILL_2023.dbf
@@ -28,7 +28,7 @@ Repository Structure:
      • POLYGON_SURVEY_UNTILL_2023.prj
      • POLYGON_SURVEY_UNTILL_2023.cpg
 
-3. R Code Files
+3. R Code Files:
    - The main R script (or R Markdown file) contains the code to:
      a) Load required packages.
      b) Download the Excel datasets and GIS files directly from GitHub.
