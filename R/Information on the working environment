@@ -1,2 +1,33 @@
-R version: [R 4.4.1]
-Key R packages used in this project include (with version numbers): • sf: e.g., version 1.0-0 (built under R 4.4.2; linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1) • spdep: (built under R 4.4.2) • ggplot2: e.g., version 3.3.6 • viridis: (version as provided by CRAN) • car: (version as provided by CRAN) • spatstat.explore: e.g., version 3.3-2 • spatstat.geom: e.g., version 3.3-3 • spatstat.model: e.g., version 3.3-2 • network: installed version 1.18.2 (update available: 1.19.0) • ggspatial: (built under R 4.4.2) • vegan: e.g., version 2.6-8 • scales: (version as provided by CRAN) • dplyr: (version as provided by CRAN) • patchwork: (version as provided by CRAN) • tidygraph: (version as provided by CRAN) • ggraph: (version as provided by CRAN) • GGally: (version as provided by CRAN) • FSA: e.g., version 0.9.5 • ggpubr: (version as provided by CRAN) • writexl: (version as provided by CRAN) • openxlsx: (version as provided by CRAN) • sna: e.g., version 2.8 (created on 2024-09-07) • statnet: e.g., version 2019.6 (2019-06-13) • igraph: (version as provided by CRAN) • DT: (version as provided by CRAN) • tnet: (version as provided by CRAN) • kableExtra: (version as provided by CRAN) • readxl: (version as provided by CRAN) • dunn.test: (version as provided by CRAN)
+Software and Key Package Versions:
+----------------------------------
+- R version: [R 4.4.1]
+- Key R packages used in this project include (with version numbers):
+    •  sf: e.g., version 1.0-0 (built under R 4.4.2; linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1)
+    •  spdep: (built under R 4.4.2)
+    •  ggplot2: e.g., version 3.3.6
+    •  viridis: (version as provided by CRAN)
+    •  car: (version as provided by CRAN)
+    •  spatstat.explore: e.g., version 3.3-2
+    •  spatstat.geom: e.g., version 3.3-3
+    •  spatstat.model: e.g., version 3.3-2
+    •  network: installed version 1.18.2 (update available: 1.19.0)
+    •  ggspatial: (built under R 4.4.2)
+    •  vegan: e.g., version 2.6-8
+    •  scales: (version as provided by CRAN)
+    •  dplyr: (version as provided by CRAN)
+    •  patchwork: (version as provided by CRAN)
+    •  tidygraph: (version as provided by CRAN)
+    •  ggraph: (version as provided by CRAN)
+    •  GGally: (version as provided by CRAN)
+    •  FSA: e.g., version 0.9.5
+    •  ggpubr: (version as provided by CRAN)
+    •  writexl: (version as provided by CRAN)
+    •  openxlsx: (version as provided by CRAN)
+    •  sna: e.g., version 2.8 (created on 2024-09-07)
+    •  statnet: e.g., version 2019.6 (2019-06-13)
+    •  igraph: (version as provided by CRAN)
+    •  DT: (version as provided by CRAN)
+    •  tnet: (version as provided by CRAN)
+    •  kableExtra: (version as provided by CRAN)
+    •  readxl: (version as provided by CRAN)
+    •  dunn.test: (version as provided by CRAN)
