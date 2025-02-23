@@ -81,6 +81,5 @@ Manuscript Summary:
 ----------------------------------
 This article analyzes the interaction networks in the Tairona chiefdom communities of the Sierra Nevada de Santa Marta, Colombia, to investigate settlement patterns and scales of sociopolitical interaction and economic integration over time. The study uses network analysis applied to technological and typological attributes of ceramic artifact assemblages from pre-Hispanic residential areas. The results indicate that certain settlements played central roles in the network, acting as intermediaries in the distribution of ceramic goods and possibly in socio-political coordination. These findings underscore the complexity of social and economic relationships in pre-Columbian societies and have direct implications for understanding settlement patterns and sociopolitical centralization in the Tairona chiefdoms.
 
-Contact:
 For questions or further information, please contact:
 lms313@pitt.edu
