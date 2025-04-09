@@ -77,7 +77,7 @@ Getting Started:
 2. Open the main R script (or R Markdown file) in RStudio.
 3. Ensure that you have an active Internet connection; the code downloads the Excel and GIS files directly from GitHub.
 4. Run the R script from top to bottom to reproduce the analysis and generate all figures and tables as presented in the manuscript.
-5. For any issues, consult the comments in the code or contact the corresponding author.
+5. For any issues, consult the comments in the syntax or contact the corresponding author.
 
 Manuscript Summary:
 ----------------------------------
