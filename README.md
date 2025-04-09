@@ -39,35 +39,37 @@ Software and Key Package Versions:
 ----------------------------------
 - R version: [R 4.4.1]
 - Key R packages used in this project include (with version numbers):
-    •  sf: e.g., version 1.0-0 (built under R 4.4.2; linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1)
-    •  spdep: (built under R 4.4.2)
-    •  ggplot2: e.g., version 3.3.6
-    •  viridis: (version as provided by CRAN)
-    •  car: (version as provided by CRAN)
-    •  spatstat.explore: e.g., version 3.3-2
-    •  spatstat.geom: e.g., version 3.3-3
-    •  spatstat.model: e.g., version 3.3-2
-    •  network: installed version 1.18.2 (update available: 1.19.0)
-    •  ggspatial: (built under R 4.4.2)
-    •  vegan: e.g., version 2.6-8
-    •  scales: (version as provided by CRAN)
-    •  dplyr: (version as provided by CRAN)
-    •  patchwork: (version as provided by CRAN)
-    •  tidygraph: (version as provided by CRAN)
-    •  ggraph: (version as provided by CRAN)
-    •  GGally: (version as provided by CRAN)
-    •  FSA: e.g., version 0.9.5
-    •  ggpubr: (version as provided by CRAN)
-    •  writexl: (version as provided by CRAN)
-    •  openxlsx: (version as provided by CRAN)
-    •  sna: e.g., version 2.8 (created on 2024-09-07)
-    •  statnet: e.g., version 2019.6 (2019-06-13)
-    •  igraph: (version as provided by CRAN)
-    •  DT: (version as provided by CRAN)
-    •  tnet: (version as provided by CRAN)
-    •  kableExtra: (version as provided by CRAN)
-    •  readxl: (version as provided by CRAN)
-    •  dunn.test: (version as provided by CRAN)
+   • sf : e.g., version 1.0-0 (built under R 4.4.2; linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1) - installed: 1.0.19 
+   • spdep : (built under R 4.4.2) - installed: 1.3.7 
+   • ggplot2 : e.g., version 3.3.6 - installed: 3.5.1 
+   • viridis : (version as provided by CRAN) - installed: 0.6.5 
+   • car : (version as provided by CRAN) - installed: 3.1.3 
+   • spatstat.explore : e.g., version 3.3-2 - installed: 3.3.2 
+   • spatstat.geom : e.g., version 3.3-3 - installed: 3.3.3 
+   • spatstat.model : e.g., version 3.3-2 - installed: 3.3.2 
+   • network : installed version 1.18.2 (update available: 1.19.0) - installed: 1.18.2 
+   • ggspatial : (built under R 4.4.2) - installed: 1.1.9 
+   • vegan : e.g., version 2.6-8 - installed: 2.6.8 
+   • scales : (version as provided by CRAN) - installed: 1.3.0 
+   • dplyr : (version as provided by CRAN) - installed: 1.1.4 
+   • patchwork : (version as provided by CRAN) - installed: 1.3.0 
+   • tidygraph : (version as provided by CRAN) - installed: 1.3.1 
+   • ggraph : (version as provided by CRAN) - installed: 2.2.1 
+   • GGally : (version as provided by CRAN) - installed: 2.2.1 
+   • FSA : e.g., version 0.9.5 - installed: 0.9.5 
+   • stats :  - installed: 4.4.1 
+   • ggpubr : (version as provided by CRAN) - installed: 0.6.0 
+   • writexl : (version as provided by CRAN) - installed: 1.5.1 
+   • openxlsx : (version as provided by CRAN) - installed: 4.2.7.1 
+   • sna : e.g., version 2.8 (created on 2024-09-07) - installed: 2.8 
+   • statnet : e.g., version 2019.6 (2019-06-13) - installed: 2019.6 
+   • igraph : (version as provided by CRAN) - installed: 2.0.3 
+   • DT : (version as provided by CRAN) - installed: 0.33 
+   • tnet : (version as provided by CRAN) - installed: 3.0.16 
+   • kableExtra : (version as provided by CRAN) - installed: 1.4.0 
+   • readxl : (version as provided by CRAN) - installed: 1.4.3 
+   • dunn.test : (version as provided by CRAN) - installed: 1.3.6 
+   • ggdist : (version as provided by CRAN) - installed: 3.3.2 
 
 Getting Started:
 ----------------------------------
